@@ -114,7 +114,7 @@ while opcion != 4:
             print("Fecha de Afiliación: " + fechadeafiliacion)
             print("")
             print("")        
-            input("Presione Enter para continuar...")  
+            input("Presione Enter para continuar....")  
       
     if opcion == 3:
         print("imprimir certificados de afiliación a la Isapre")
@@ -135,7 +135,7 @@ while opcion != 4:
             print("Fecha de Afiliación: " + fechadeafiliacion)
             print("")
             print("")        
-            input("Presione Enter para continuar...")  
+            input("Presione Enter para continuar....")  
 
     if opcion == 4:
         print("Salir de Sistema")
